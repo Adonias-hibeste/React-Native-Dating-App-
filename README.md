@@ -1,53 +1,28 @@
-# 🔥 Flame Dating
+# ❤️ Dating App
 
-**Bold. Premium. Sophisticated.**
+**Premium Connections.**
 
-Flame is a high-fidelity dating application built with React Native and Expo. It features a unique Cyber-Amber aesthetic, optimized for a premium user experience with smooth animations and a focus on meaningful connections.
+Dating App is a high-fidelity social discovery application built with React Native. It features a sophisticated "Cyber-Amber" design system, high-performance swipe-to-match architecture, and premium interactive animations powered by Reanimated 3.
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/discovery.png" width="30%" alt="Discovery" />
-  <img src="screenshots/match.png" width="30%" alt="It's a Match" />
-  <img src="screenshots/chat.png" width="30%" alt="Chat Interface" />
+  <img src="screenshots/overview.png" width="30%" alt="Discovery Feed" />
+  <img src="screenshots/match.png" width="30%" alt="Match Interface" />
+  <img src="screenshots/chat.png" width="30%" alt="Chat System" />
 </p>
 
 ## ✨ Features
 
-- 🌟 **Cyber-Amber UI** — A premium Amber and Graphite theme that feels technical, high-end, and gender-neutral.
-- 💖 **Swipe Architecture** — Intuitive swipe-to-match interface with smooth animations.
-- 📱 **Responsive Layout** — Fully optimized for all screen sizes (iOS & Android).
-- 💬 **Real-time Vibe** — Designed for high-engagement social interactions.
-- 🌓 **Stealth Dark Mode** — A sophisticated "Midnight" dark mode designed for a sleek, technical aesthetic.
-- ⚡ **React Native Reanimated** — Powering buttery-smooth card transitions and interactions.
+- 🔥 **Swipe Architecture** — Smooth, high-performance card stacking and gesture-based interaction.
+- 🎨 **Cyber-Amber UI** — A unique, high-contrast design system optimized for modern mobile screens.
+- 💬 **Interactive Chat** — Real-time messaging with integrated match-management logic.
+- 🎭 **Profile Personalization** — Rich media profiles with high-resolution image support and detailed bios.
+- ⚡ **Optimized Performance** — Built using Expo and Reanimated for consistent 60fps animations.
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [React Native](https://reactnative.dev)
-- **Runtime**: [Expo SDK 50](https://expo.dev)
-- **Animations**: [Reanimated 3](https://docs.swmansion.com/react-native-reanimated/)
-- **Icons**: [Lucide React Native](https://lucide.dev)
-- **Styling**: StyleSheet + [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Adonias-hibeste/React-Native-Dating-App-.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the project:
-   ```bash
-   npx expo start
-   ```
-
-## 👨‍💻 Developer
-
-**Adonias Hibeste** — Lead Mobile Developer
-
----
-
-*Note: This repository is a technical showcase of high-fidelity UI and smooth animation implementation in React Native.*
+- **Framework**: React Native (Expo)
+- **State Management**: Zustand
+- **Animations**: Reanimated 3
+- **Design System**: Custom High-Fidelity UI
