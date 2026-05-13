@@ -1,10 +1,16 @@
-# 🌟 Flame - React Native Dating App
+# 🔥 Flame Dating
 
-**Connect. Match. Spark.**
+**Bold. Premium. Sophisticated.**
 
-Flame is a high-fidelity dating application showcase built with React Native and Expo. It features a modern swipe-based discovery system, a sophisticated **Cyber-Amber** UI, and a smooth user experience designed for a high-end, professional social platform.
+Flame is a high-fidelity dating application built with React Native and Expo. It features a unique Cyber-Amber aesthetic, optimized for a premium user experience with smooth animations and a focus on meaningful connections.
 
-![Dating Header](https://raw.githubusercontent.com/Adonias-hibeste/React-Native-Dating-App-/main/preview.png)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/discovery.png" width="30%" alt="Discovery" />
+  <img src="screenshots/match.png" width="30%" alt="It's a Match" />
+  <img src="screenshots/chat.png" width="30%" alt="Chat Interface" />
+</p>
 
 ## ✨ Features
 
